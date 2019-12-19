@@ -1,0 +1,15 @@
+{
+  "name": "node_prueba",
+  "version": "1.0.0",
+  "description": "prueba de acamica, primer proyecto de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_command"
+  },
+  "author": "sofia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
+  }
+}
